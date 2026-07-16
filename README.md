@@ -1,2 +1,2 @@
 # dennis-school
-provide a link
+fuctions of a management for a school
